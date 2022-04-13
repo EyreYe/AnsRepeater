@@ -1,10 +1,10 @@
 {
-  "name": "张三",
-  "school": "哈尔滨佛学院",
-  "username" : "2077010101",
-  "password": "abc",
-  "course": ["管理学", "毛泽东"],
-  "count": 3,
+  "name": "叶红爱",
+  "school": "北京师范大学",
+  "username" : "201911061176",
+  "password": "Yha042004",
+  "course": ["艾滋病、性与健康"],
+  "count": 35,
   "browserType": "chrome",
   "gui": true 
 }
